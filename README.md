@@ -1,6 +1,7 @@
  📦 Inventory Management System
 
 📝 Overview
+
 The **Inventory Management System** is a simple console-based application written in **C++**. It allows a small store to dynamically manage its inventory by adding, removing, updating, and displaying product quantities.
 
 ✨ Features
